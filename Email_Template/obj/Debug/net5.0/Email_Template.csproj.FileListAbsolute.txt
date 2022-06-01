@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\Email_Template\Email_Template\bin\Debug\net5.0\Email_Template.exe
+C:\Users\ACER\Desktop\Email_Template\Email_Template\bin\Debug\net5.0\Email_Template.deps.json
+C:\Users\ACER\Desktop\Email_Template\Email_Template\bin\Debug\net5.0\Email_Template.runtimeconfig.json
+C:\Users\ACER\Desktop\Email_Template\Email_Template\bin\Debug\net5.0\Email_Template.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Email_Template\Email_Template\bin\Debug\net5.0\Email_Template.dll
+C:\Users\ACER\Desktop\Email_Template\Email_Template\bin\Debug\net5.0\ref\Email_Template.dll
+C:\Users\ACER\Desktop\Email_Template\Email_Template\bin\Debug\net5.0\Email_Template.pdb
+C:\Users\ACER\Desktop\Email_Template\Email_Template\obj\Debug\net5.0\Email_Template.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Email_Template\Email_Template\obj\Debug\net5.0\Email_Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Email_Template\Email_Template\obj\Debug\net5.0\Email_Template.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Email_Template\Email_Template\obj\Debug\net5.0\Email_Template.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Email_Template\Email_Template\obj\Debug\net5.0\Email_Template.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Email_Template\Email_Template\obj\Debug\net5.0\Email_Template.dll
+C:\Users\ACER\Desktop\Email_Template\Email_Template\obj\Debug\net5.0\ref\Email_Template.dll
+C:\Users\ACER\Desktop\Email_Template\Email_Template\obj\Debug\net5.0\Email_Template.pdb
+C:\Users\ACER\Desktop\Email_Template\Email_Template\obj\Debug\net5.0\Email_Template.genruntimeconfig.cache
