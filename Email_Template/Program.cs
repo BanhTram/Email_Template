@@ -16,9 +16,9 @@ namespace SendEmailWithSTMP
         static void Main(string[] args)
         {
             Program2 a = new Program2();
-            //a.send_email_thay_doi_email_khach_san_thanh_cong();
-            //a.send_email_xung_dot_cap_nhat_thong_tin_boocking();
-            //a.send_email_sap_het_han_su_dung();
+            a.send_email_thay_doi_email_khach_san_thanh_cong();
+            a.send_email_xung_dot_cap_nhat_thong_tin_boocking();
+            a.send_email_sap_het_han_su_dung();
             a.send_email_thong_bao_loi_dong_ho();
         }
         public void send_email_thay_doi_email_khach_san_thanh_cong()
